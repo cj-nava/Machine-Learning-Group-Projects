@@ -1,2 +1,2 @@
-# Machine-Learning-Group-Projects
+# Machine-Learning-Projects
 Repository for MSDS 7331
